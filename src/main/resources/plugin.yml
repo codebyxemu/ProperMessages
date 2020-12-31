@@ -1,0 +1,6 @@
+name: ProperMessages
+version: ${project.version}
+main: me.xemu.propermessages.ProperMessages
+api-version: 1.16
+authors: [ Xemu ]
+description: Remove short messages, all caps messages, and more.
